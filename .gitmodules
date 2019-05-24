@@ -1,0 +1,12 @@
+[submodule "GenericVector"]
+	path = GenericVector
+	url = ../Generics/GenericVector
+[submodule "GenericLinkedList"]
+	path = GenericLinkedList
+	url = ../Generics/GenericLinkedList
+[submodule "GenericQueue"]
+	path = GenericQueue
+	url = ../Generics/GenericQueue/
+[submodule "GenericStack"]
+	path = GenericStack
+	url = ../Generics/GenericStack/
