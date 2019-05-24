@@ -1,0 +1,3 @@
+[submodule "C-Stack-Generic"]
+	path = C-Stack-Generic
+	url = git@github.com:CoralRocker/C-Stack-Generic.git
