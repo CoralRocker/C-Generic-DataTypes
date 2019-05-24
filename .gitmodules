@@ -1,3 +1,12 @@
 [submodule "C-Stack-Generic"]
 	path = C-Stack-Generic
 	url = git@github.com:CoralRocker/C-Stack-Generic.git
+[submodule "C-Queue-Generic"]
+	path = C-Queue-Generic
+	url = git@github.com:CoralRocker/C-Queue-Generic.git
+[submodule "C-Vector-Generic"]
+	path = C-Vector-Generic
+	url = git@github.com:CoralRocker/C-Vector-Generic.git
+[submodule "C-LinkedList-Generic"]
+	path = C-LinkedList-Generic
+	url = git@github.com:CoralRocker/C-LinkedList-Generic.git
